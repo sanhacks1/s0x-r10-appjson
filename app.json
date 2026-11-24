@@ -1,0 +1,13 @@
+{
+ "name": "s0x r10",
+ "addons": [
+  {
+   "plan": "heroku-inference:claude-4-5-haiku"
+  }
+ ],
+ "buildpacks": [
+  {
+   "url": "heroku/nodejs"
+  }
+ ]
+}
